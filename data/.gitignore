@@ -1,0 +1,6 @@
+*.csv
+*.h5
+*.zip
+stooq/
+.ipynb_checkpoints/
+
